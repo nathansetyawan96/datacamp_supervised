@@ -1,2 +1,2 @@
-# datacamp_supervised
-Datacamp Supervised Learning 
+# Data Camp Supervised Learning with Scikit-Learn
+Written in Python
